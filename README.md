@@ -1,1 +1,1 @@
-# elixier
+# elixir
